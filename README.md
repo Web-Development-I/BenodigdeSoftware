@@ -19,7 +19,7 @@ Volgende onderwerpen worden behandeld in deze tutorial:
 Om de webapplicaties weer te geven maken we natuurlijk gebruik van een browser. In deze lessenreeks en op het examen wordt gebruik gemaakt van Chrome. Een andere browser kan natuurlijk ook.
 
 ## FileZilla Client
-De FileZilla client software wordt gebruikt om via FTP onze webpagina's online te plaatsen op het WWW.
+De FileZilla client software wordt gebruikt om via FTP onze webpagina's online te plaatsen.
 De software vind je op [FileZilla](https://filezilla-project.org/download.php?type=client). De installatie en het gebruik worden toegelicht in de volgende [video](https://www.youtube.com/watch?v=ejtnqiFVj0Y&list=PLgKzo3JzWykOkBYJT3IqkLKvhq9f8c_DG).
 
 ## GIT
