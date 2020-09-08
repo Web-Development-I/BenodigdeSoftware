@@ -23,4 +23,4 @@ De FileZilla client software wordt gebruikt om via FTP onze webpagina's online t
 De software vind je op [FileZilla](https://filezilla-project.org/download.php?type=client). De installatie en het gebruik worden toegelicht in de volgende [video](https://www.youtube.com/watch?v=ejtnqiFVj0Y&list=PLgKzo3JzWykOkBYJT3IqkLKvhq9f8c_DG).
 
 ## GIT
-Deze software is niet noodzakelijk om de voorbeelden en oefeningen te downloaden (wordt in de les verder toegelicht). Aangezien deze software gebruikt wordt in het OLOD ProjectenI in semester 2, is het zeker niet erg om deze reeds nu te installeren. Het kan het reeds gebruikt worden om makkelijker toegang te hebben tot de voorbeelden en oefeningen.
+Deze software is niet noodzakelijk om de voorbeelden en oefeningen te downloaden (wordt in de les verder toegelicht). Aangezien deze software gebruikt wordt in het OLOD Projecten I in semester 2, is het zeker niet erg om deze reeds nu te installeren. Het kan het reeds gebruikt worden om makkelijker toegang te hebben tot de voorbeelden en oefeningen. [Download GIT](https://git-scm.com/downloads).
