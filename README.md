@@ -1,7 +1,15 @@
 # Inleiding: benodigde software
 In de lessenreeks gebruiken we volgende software:
-- Visual Studio Code: editor
-- Chrome en Firefox
+- **Visual Studio Code: editor**
+  
+  met de volgende extensies:
+  
+  - Prettier – Code formatter, *Esben Petersen*.
+  - Live Sass Compiler, *Ritwick Dey*
+  - Live Server, *Ritwick Dey* (wordt in principe automatisch geïnstalleerd als je de
+extensie Live Sass Compiler installeert)
+  
+- **Chrome en Firefox**
 
 ## Visual Studio Code
 Voor het uitwerken van de voorbeelden en de oefeningen gebruiken we [Visual Studio Code](https://code.visualstudio.com/Download). Downloaden, installeren en configureren(inclusief de extensies) worden toegelicht in volgende [videos](https://www.youtube.com/playlist?list=PLgKzo3JzWykNDcpJ8XX73w7WTQ_iiB_nD). 
