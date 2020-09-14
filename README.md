@@ -4,7 +4,7 @@ In de lessenreeks gebruiken we volgende software:
   
   met de volgende extensies:
   
-  - Prettier – Code formatter, *Esben Petersen*.
+  - Prettier – Code formatter, *Prettier*.
   - Live Sass Compiler, *Ritwick Dey*
   - Live Server, *Ritwick Dey* (wordt in principe automatisch geïnstalleerd als je de
 extensie Live Sass Compiler installeert)
