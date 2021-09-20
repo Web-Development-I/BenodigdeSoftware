@@ -4,17 +4,15 @@ In de lessenreeks gebruiken we volgende software:
   
   met de volgende extensies:
   
-  - Prettier – Code formatter, *Prettier*.
-  - Live Sass Compiler, *Ritwick Dey*
-  - Live Server, *Ritwick Dey* (wordt in principe automatisch geïnstalleerd als je de
-extensie Live Sass Compiler installeert)
+  - [Prettier – Code formatter](https://github.com/prettier/prettier-vscode), *Prettier*.
+  - [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass), *Glenn Marks* 
+  - [Live Server](https://github.com/ritwickdey/vscode-live-server), *Ritwick Dey* 
   
 - **Chrome en Firefox**
 
 ## Visual Studio Code
-Voor het uitwerken van de voorbeelden en de oefeningen gebruiken we [Visual Studio Code](https://code.visualstudio.com/Download). Downloaden, installeren en configureren(inclusief de extensies) worden toegelicht in volgende [videos](https://www.youtube.com/playlist?list=PLgKzo3JzWykNDcpJ8XX73w7WTQ_iiB_nD). 
+Voor het uitwerken van de voorbeelden en de oefeningen gebruiken we [Visual Studio Code](https://code.visualstudio.com/Download).  
 
-### Optionele opdracht:
 Microsoft voorziet ook een goede interactieve [tutorial](https://docs.microsoft.com/nl-nl/learn/modules/develop-web-apps-with-vs-code/). Hier leer je hoe je webapps kan ontwikkelen met Visual Studio Code.
 
 Volgende onderwerpen worden behandeld in deze tutorial:
@@ -22,7 +20,7 @@ Volgende onderwerpen worden behandeld in deze tutorial:
 2. Download en installeren van Visual Studio Code.
 3. Installeren van basis extensies.
 4. Basis functionaliteit van de editor van Visual Studio Code.
-5. Het schrijven en testen van eenvoudige webapplicaties
+5. Het schrijven en testen van eenvoudige webapplicaties.
 
 ## Chrome en firefox
 Om de webapplicaties weer te geven maken we natuurlijk gebruik van een browser.
