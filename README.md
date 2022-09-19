@@ -4,7 +4,6 @@ In de lessenreeks gebruiken we volgende software:
   
   met de volgende extensies:
   
-  - [Prettier – Code formatter](https://github.com/prettier/prettier-vscode), *Prettier*
   - [Live Server](https://github.com/ritwickdey/vscode-live-server), *Ritwick Dey* 
   - [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass), *Glenn Marks* 
   
