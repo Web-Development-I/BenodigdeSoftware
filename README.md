@@ -1,16 +1,19 @@
 # Inleiding: benodigde software
 In de lessenreeks gebruiken we volgende software:
-- **Visual Studio Code: editor**
+- **Visual Studio Code: editor** 
   
-  met de volgende extensies:
+- **Chrome en Firefox: browsers**
+
+- **GIT: versiebeheer software**
+
+## Visual Studio Code
+Voor het uitwerken van de voorbeelden en de oefeningen gebruiken we [Visual Studio Code](https://code.visualstudio.com/Download).  
+
+Installeer ook de volgende extensies:
   
   - [Live Server](https://github.com/ritwickdey/vscode-live-server), *Ritwick Dey* 
   - [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass), *Glenn Marks* 
   
-- **Chrome en Firefox**
-
-## Visual Studio Code
-Voor het uitwerken van de voorbeelden en de oefeningen gebruiken we [Visual Studio Code](https://code.visualstudio.com/Download).  
 
 Microsoft voorziet ook een goede interactieve [tutorial](https://docs.microsoft.com/nl-nl/learn/modules/develop-web-apps-with-vs-code/). Hier leer je hoe je webapps kan ontwikkelen met Visual Studio Code.
 
