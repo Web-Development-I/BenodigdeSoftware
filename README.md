@@ -12,7 +12,6 @@ Voor het uitwerken van de voorbeelden en de oefeningen gebruiken we [Visual Stud
 Installeer ook de volgende extensies:
   
   - [Live Server](https://github.com/ritwickdey/vscode-live-server), *Ritwick Dey* 
-  - [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass), *Glenn Marks* 
   
 
 Microsoft voorziet ook een goede interactieve [tutorial](https://docs.microsoft.com/nl-nl/learn/modules/develop-web-apps-with-vs-code/). Hier leer je hoe je webapps kan ontwikkelen met Visual Studio Code.
