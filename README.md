@@ -9,7 +9,7 @@ In de lessenreeks gebruiken we volgende software:
 ## Visual Studio Code
 Voor het uitwerken van de voorbeelden en de oefeningen gebruiken we [Visual Studio Code](https://code.visualstudio.com/Download).  
 
-Installeer ook de volgende extensies:
+Installeer ook de volgende extensie:
   
   - [Live Server](https://github.com/ritwickdey/vscode-live-server), *Ritwick Dey* 
   
